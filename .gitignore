@@ -1,0 +1,5 @@
+mydb
+*~
+*.pem
+*.crt
+*.csr
